@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/4V0V.gif" width="500"/>
+  <img src="https://giphy.com/stickers/angry-plant-poli-kHaH8RLuVpLpNAs52y" width="500"/>
 </div>
-<iframe src="https://giphy.com/embed/kHaH8RLuVpLpNAs52y" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/angry-plant-poli-kHaH8RLuVpLpNAs52y">via GIPHY</a></p>
 
 ### :fire: My Stats :
 
