@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/stickers/angry-plant-poli-kHaH8RLuVpLpNAs52y](https://media.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif)" width="500"/>
+  <img src="https://media.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif" width="500"/>
 </div>
 
 ### :fire: My Stats :
