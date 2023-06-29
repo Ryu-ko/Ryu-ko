@@ -1,7 +1,7 @@
 ### 🌞~~ Hiiii ~~🌞
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif" width="150"/>
-   <img src="https://64.media.tumblr.com/5cb7e485bddd21f9b934794810de574f/a7cbbd880695e3c2-39/s640x960/c2eddeedbbc7cd91af0c2ea0e164ab4c94d65545.gifv"/>
+   <img src="https://64.media.tumblr.com/5cb7e485bddd21f9b934794810de574f/a7cbbd880695e3c2-39/s640x960/c2eddeedbbc7cd91af0c2ea0e164ab4c94d65545.gif"/>
 </div>
 
 ### :fire: My Stats :
