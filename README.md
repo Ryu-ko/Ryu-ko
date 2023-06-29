@@ -1,6 +1,6 @@
 ### Hi, have a nice day~🌞
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif" />
+  <img src="https://media.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif" width="300"/>
 </div>
 
 ### :fire: My Stats :
